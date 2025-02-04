@@ -1,0 +1,16 @@
+PODS:
+  - GrangTest (0.1.0)
+
+DEPENDENCIES:
+  - GrangTest (from `../`)
+
+EXTERNAL SOURCES:
+  GrangTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GrangTest: bb3a649bcfb32dac6b0a0750a376cfd3ce46f5bc
+
+PODFILE CHECKSUM: c2e75162d7f70c68e48bbec354a1221a257fcf1a
+
+COCOAPODS: 1.15.2

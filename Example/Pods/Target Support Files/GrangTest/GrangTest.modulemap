@@ -1,0 +1,6 @@
+framework module GrangTest {
+  umbrella header "GrangTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

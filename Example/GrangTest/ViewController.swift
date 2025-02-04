@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import GrangTest
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        let root = RootingChecker.isJailBreak()
+        print("data: ", root)
     }
 
     override func didReceiveMemoryWarning() {
