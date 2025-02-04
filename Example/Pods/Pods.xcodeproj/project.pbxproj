@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0924CB2E2D51997300E2B306 /* ScreenProtect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0924CB2D2D51997300E2B306 /* ScreenProtect.swift */; };
+		0924CB502D51D69300E2B306 /* ScreenProtect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0924CB4F2D51D69300E2B306 /* ScreenProtect.swift */; };
 		0A4AC200CF89DBD1635A680ADB0B6EB9 /* GrangTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = A273634DF33437A196FD6EE72F3B69B6 /* GrangTest.swift */; };
 		279FB3249D4184D651DC6788CE739855 /* Pods-GrangTest_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D1B090679C522994B165CC000E270D1C /* Pods-GrangTest_Example-dummy.m */; };
 		4B15D717EB784539E02AC6151469BA36 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
@@ -39,7 +39,7 @@
 
 /* Begin PBXFileReference section */
 		079B5FEEB60A21CDC04E73473958696E /* GrangTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = GrangTest.release.xcconfig; sourceTree = "<group>"; };
-		0924CB2D2D51997300E2B306 /* ScreenProtect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenProtect.swift; sourceTree = "<group>"; };
+		0924CB4F2D51D69300E2B306 /* ScreenProtect.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ScreenProtect.swift; path = GrangTest/Classes/ScreenProtect.swift; sourceTree = "<group>"; };
 		27A7CC01D916EC7BD958923B0E01DBCE /* GrangTest-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "GrangTest-prefix.pch"; sourceTree = "<group>"; };
 		28AD1AE54AF2E5134C5F8EDE06D1D4D0 /* Pods-GrangTest_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-GrangTest_Example.release.xcconfig"; sourceTree = "<group>"; };
 		341F5B1C8FF38768C90CB147BFD181D0 /* GrangTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = GrangTest.debug.xcconfig; sourceTree = "<group>"; };
@@ -131,7 +131,7 @@
 			isa = PBXGroup;
 			children = (
 				A273634DF33437A196FD6EE72F3B69B6 /* GrangTest.swift */,
-				0924CB2D2D51997300E2B306 /* ScreenProtect.swift */,
+				0924CB4F2D51D69300E2B306 /* ScreenProtect.swift */,
 				B06399D1E20CE83B11FFA95C99C91206 /* Pod */,
 				AACCEB742DBCA37D9DA366A1936C6009 /* Support Files */,
 			);
@@ -388,7 +388,7 @@
 			files = (
 				F98BC4880B68FD87BE3B08D378496C7D /* GrangTest-dummy.m in Sources */,
 				0A4AC200CF89DBD1635A680ADB0B6EB9 /* GrangTest.swift in Sources */,
-				0924CB2E2D51997300E2B306 /* ScreenProtect.swift in Sources */,
+				0924CB502D51D69300E2B306 /* ScreenProtect.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
